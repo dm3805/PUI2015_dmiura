@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README.md
 =======
 What I did to set up my environment:
 1) Created the PUI2015 directory with the mkdir command;
