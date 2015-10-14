@@ -1,0 +1,1 @@
+I mostly worked alone in this homework. I counted with the help of Nate Weber to do the scatter plot of assignment 2, and with Dara Perl's to include labels for my scatter plots (also in Assignment 2).
