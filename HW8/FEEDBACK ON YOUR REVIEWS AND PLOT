@@ -1,0 +1,63 @@
+your reviews were excellent 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+
+small tick labels
+
+small axis label (not terribly small but a bit)
+
+the faint colors may not render well in a page with other stuff in it. 
+
+assigning shades of red and blue to females and males does enhance clarity through intuition but it charges the plot with gender issues: more neutral colors are advisable. 
+
+the distribution of the data would probably be suitable to a log scale on the y axis. this would separate the bottom of the range, which now appears to be the same by eye for all categories.
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+jjhall
+============
+
+
+tick and axis labels are too small
+
+the colors indicate the structure in the data nicely but the three shades are not distinguishable by people affected by the most common color blind variety
+
+in general the default 3 datapoints in the legend should be substitute with a single point, as they are redundant, but in this case since the datapoints are small to allow to see the overlapping structure (presumably) the three datapoints are justified. 
+
+10^0 should be replaced with 1, 10^1 with 10
+
+
+
+neilverosh
+============
+
+colors are nicely vivid and color blind compliant
+
+axis labels too small
+
+the plot is largely empty (remember tufte's rules!) a shorter more compact y axis would help comparison
+
+
+
+
+YifanXie520
+============
+  
+Colors are indistinguishable for color blind people
+
+tick labels are too small
+
+
+it would be nice if it said "basketball" somewhere, and had the date of the data
+
+the points are too small resulting in a lot of empty space (remember tufte's rules) and the points at 0 are chopped by the axis: an offset should be provided
+
+otherwise clear and not misleading
+
+
+
